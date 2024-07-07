@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mental Health Conditions in Arunachal Pradesh</title>
+
+<style>
+a 
+{
+ text-decoration:none;
+}
+
+</style>
+
+</head>
+
+<body bgcolor="#e8bcf0">
+
+<font color="#765341" size="4">
+
+<table>
+
+<tr>
+<td colspan="2">
+<h1>Mental Health in Arunachal Pradesh</h1>
+
+<p>
+<h3>1. Psychological Disorders in Arunachal Pradesh and Comorbidities</h3>
+In Arunachal Pradesh, prevalent psychological disorders include depression, schizophrenia, and bipolar disorder, often coexisting with depression, anxiety, and substance <br> abuse disorders:
+<br>
+- Depression: Prevalent due to social isolation and economic challenges, often comorbid with anxiety and substance abuse.
+<br>
+- Anxiety: Widespread among the youth and elderly, frequently occurring with depression.
+<br>
+- Substance Abuse: High rates of alcohol and drug use, leading to significant mental health issues.
+</p>
+</td>
+</tr>
+
+<tr>
+<td> <center> <img src="movie.jpg" height="400"> </center> </td>
+<td> <center> <img src="movie 2.jpg" height="400"> </center> </td>
+</tr>
+
+<tr>
+<td colspan="2">
+<p>
+<h3>2. Causes of Rising Mental Health Issues</h3>
+Factors contributing to mental health issues in Arunachal Pradesh include:
+<br>
+- Cultural Stress: Changes in traditional lifestyles and cultural disintegration.
+<br>
+- Economic Hardship: Poverty and lack of employment opportunities.
+<br>
+- Substance Abuse: Significant problem leading to increased mental health issues.
+<br>
+- Geographic Isolation: Difficult terrain and poor connectivity affecting access to healthcare.
+</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<p>
+<h3>3. Mental Health Care Facilities and Resources in Arunachal Pradesh</h3>
+- Hospitals and Clinics: Tomo Riba Institute of Health and Medical Sciences, various district hospitals, and primary health centers.
+<br>
+- Rehabilitation Centers: State-run and private rehab centers for substance abuse.
+<br>
+- NGOs: Active NGOs like the Arunachal Pali Vidyapith Society providing counseling and support.
+<br>
+- Helplines: Mental health helplines and crisis intervention services available.
+</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<p>
+<h3>4. Government Initiatives for Preventive Awareness</h3>
+- Central Initiatives: Implementation of NMHP, Ayushman Bharat scheme, and Manodarpan initiative.
+<br>
+- State Initiatives: Mental health awareness campaigns, community outreach programs, and training for healthcare providers.
+<br>
+- Educational Initiatives: Mental health education integrated into school curriculums, workshops for educators and students.
+</p>
+</td>
+</tr>
+
+<tr>
+<td> <center> <img src="a headline.jpg" height="150"> </center> </td>
+<td> <center> <img src="tele manas headline.jpg" height="150"> </center> </td>
+</tr>
+
+<tr>
+<td> <center> <img src="paragraph.jpg" height="300"> </center> </td>
+<td> <center> <img src="photo.jpeg" height="300"> </center> </td>
+</tr>
+
+<tr>
+<td colspan="2">
+<p>
+<h3>5. Comparative Analysis with Delhi</h3>
+- Prevalence: Arunachal Pradesh faces higher challenges due to geographic isolation and cultural stress compared to Delhi.
+<br>
+- Facilities: Delhi has more comprehensive and accessible mental health services.
+<br>
+- Government Support: Both regions receive central government support, but Delhi benefits from more robust local programs.
+<br>
+While Delhi has a higher prevalence of lifestyle-related disorders, Arunachal Pradesh contends with issues like lack of access to care and mental health awareness.
+</p>
+</td>
+</tr>
+
+</table>
+
+</font>
+
+</body>
+</html>
